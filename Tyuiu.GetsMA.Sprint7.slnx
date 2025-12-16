@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Tyuiu.GetsMA.Sprint7.Project.V4.Lib/Tyuiu.GetsMA.Sprint7.Project.V4.Lib.csproj" />
+  <Project Path="Tyuiu.GetsMA.Sprint7.Project.V4.Test/Tyuiu.GetsMA.Sprint7.Project.V4.Test.csproj" />
+  <Project Path="Tyuiu.GetsMA.Sprint7.Project.V4/Tyuiu.GetsMA.Sprint7.Project.V4.csproj" />
+</Solution>
